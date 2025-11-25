@@ -1,8 +1,10 @@
 # BIM-Generated-PC
 
 **(1) SDE4**
-This dataset comprises 3D point clouds generated from BIM model of SDE4 on National University of Singapore. The scenes include both structural components and architectural elements. The dataset has been used to train a domain adaptation network (DawNet) for semantic segmentation and was published as part of an Automation in Construction article. Please cite the article when using the dataset. Citation: Hu, D., Gan, V.J.L.,* Zhai, R., (2024) Automated BIM-to-scan point cloud semantic segmentation using a domain adaptation network with hybrid attention and whitening (DawNet). Automation in Construction. 105473. 
+This dataset comprises 3D point clouds generated from BIM model of SDE4 on National University of Singapore. The scenes include both structural components and architectural elements. The dataset has been used to train a domain adaptation network (DawNet) for semantic segmentation and was published as part of an Automation in Construction article. 
 
-<img width="1000" height="1500" alt="Picture4" src="https://github.com/user-attachments/assets/64eb0768-8e09-488f-89d6-d08117d2a12a" />
+Please cite the article when using the dataset. Citation: Hu, D., Gan, V.J.L.,* Zhai, R., (2024) Automated BIM-to-scan point cloud semantic segmentation using a domain adaptation network with hybrid attention and whitening (DawNet). Automation in Construction. 105473. 
+
+<img width="700" height="1000" alt="Picture4" src="https://github.com/user-attachments/assets/64eb0768-8e09-488f-89d6-d08117d2a12a" />
 
 **(2) More BIM Generated PC Coming Soon**
